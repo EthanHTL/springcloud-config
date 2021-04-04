@@ -1,6 +1,6 @@
-eureka:
-  client:
-    service-url:
-      defaultZone: http://eureka7001.com:7001/eureka
+# test
+config:
+  info: "main branch,springCloud-config/config-test.yml  version=1"
+
 
 
